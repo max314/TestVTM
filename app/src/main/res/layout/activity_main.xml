@@ -8,5 +8,16 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent" >
     </org.oscim.android.MapView>
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="80px"
+        android:layout_height="80px"
+        android:src="@drawable/p150px_compass_rose"
+        android:scaleType="centerInside"
+        android:layout_alignParentRight="true"
+        android:gravity="bottom|left"
+        android:clickable="true"
+        />
+    <!--android:alpha="0.7"-->
 
 </RelativeLayout>
