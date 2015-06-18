@@ -12,7 +12,7 @@
         android:id="@+id/imageView"
         android:layout_width="80px"
         android:layout_height="80px"
-        android:src="@drawable/jeep7"
+        android:src="@drawable/p150px_compass_rosen"
         android:scaleType="centerInside"
         android:alpha="0.7"
         android:layout_alignParentRight="true"
